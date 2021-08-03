@@ -3,10 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/hoangtran2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software Engineer;Freelancer&center=true&width=380&height=45"></a>
-</p>
-
 ## 🙋‍♂️ Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
