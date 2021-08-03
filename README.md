@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/tranphuquy19"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software Engineer;Freelancer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/hoangtran2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software Engineer;Freelancer&center=true&width=380&height=45"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
@@ -30,8 +30,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/tranphuquy19"><img alt="Tran Phu Quy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tranphuquy19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/tranphuquy19"><img alt="Tran Phu Quy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tranphuquy19&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a href="https://github.com/hoangtran2"><img alt="Hoang Tran's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hoangtran2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/hoangtran2"><img alt="Tran Phu Quy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtran2&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
