@@ -13,7 +13,7 @@ I'm a Software Engineer living in Vietnam 🇻🇳 Check out my Portfolio [https
   <a href="https://www.youtube.com/channel/UC7jAJMVtvAg8W9mmPXJ-Zgw"><img height="20" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"  /></a>
   <a href="https://twitter.com/hoangtran2198"><img  height="20" alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.facebook.com/hoangtran.dev/"><img height="20" alt="Facebook" title="Twitter" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hoang-tran-91493a141/"><img height="20" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hoangtran2198"><img height="20" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ## 🔥 Tech stacks
