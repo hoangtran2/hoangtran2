@@ -69,3 +69,12 @@ I'm a Software Engineer living in Vietnam 🇻🇳 Check out my Portfolio [https
     <img height="20" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
     <img height="20" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>
 </p>
+
+## 🚁 Github Activity 
+<div>
+<a href="https://github.com/hoangtran2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangtran2&theme=tokyonight" />
+</a>
+</div>                                                                                                                 
+
+<div align="center">
