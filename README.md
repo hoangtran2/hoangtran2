@@ -2,7 +2,7 @@
 
 I'm a Software Engineer living in Vietnam 🇻🇳
 
-- 🔭 I'm currently working at Enouvo
+- 🔭 I’m currently a Senior Software Engineer and Engineering Lead at Enouvo
 - 🤔 I’m learning in Software Architecture & DevSecOps role
 - 📫 How to reach me: hoangtran2198.work@gmail.com
 - 📚 My certifications: [https://credly.com](https://www.credly.com/users/hoang-tran.c648e519/badges)
@@ -68,13 +68,6 @@ I'm a Software Engineer living in Vietnam 🇻🇳
 <p align="left">
     <img height="20" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
     <img height="20" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>
-</p>
-
-## 🚁 Github Activity 
-<div>
-<a href="https://github.com/hoangtran2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangtran2&theme=tokyonight" />
-</a>
-</div>                                                                                                                 
+</p>                                                                                   
 
 <div align="center">
